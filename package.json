@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend con JSON Server",
   "scripts": {
-  "server": "json-server --watch data/data.json --static false --port 3000",
+  "server": "json-server --watch data/data.json --port 3000",
   "start": "npm run server"
 }
 ,
